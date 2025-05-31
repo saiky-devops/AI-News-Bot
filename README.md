@@ -1,2 +1,2 @@
-# AI-News-Agent
-Personalized AI News agent
+# AI-News-Bot
+Personalized AI News Bot
